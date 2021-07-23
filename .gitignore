@@ -1,0 +1,4 @@
+books-api/config/config.env
+tasks-api/config/config.env
+books-api/node_modules
+tasks-api/node_modules
